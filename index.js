@@ -7,3 +7,4 @@ function Add1() {
   console.log("B");
 }
 function B() {}
+function C() {}
