@@ -9,3 +9,4 @@ function Add1() {
 function B() {}
 function C() {}
 function D() {}
+function E() {}
