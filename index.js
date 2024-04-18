@@ -1,5 +1,8 @@
 const age = 28;
 const name = "Khyati";
 function Add() {
-  console.group("A");
+  console.log("A");
+}
+function Add1() {
+  console.log("B");
 }
